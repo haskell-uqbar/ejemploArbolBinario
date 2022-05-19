@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "arbol:lib"
+
+    - path: "./test"
+      component: "arbol:test:arbol-test"
